@@ -34,13 +34,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hnmas.hnyt</string>
+				<string>com.hnmas.zzyc</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>郑州烟草</string>
+				<string>烟草研究院</string>
 				<key>title</key>
-				<string>郑州烟草</string>
+				<string>烟草研究院</string>
 			</dict>
 		</dict>
 	</array>
