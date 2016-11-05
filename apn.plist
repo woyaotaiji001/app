@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://171.8.64.60:18080/down/zzyc/apn.ipa</string>
+					<string>http://oa.haikemobile.cn:8402/down/apn/apn.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://171.8.64.60:18080/down/zzyc/Default.png</string>
+					<string>http://oa.haikemobile.cn:8402/down/apn/Default.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://171.8.64.60:18080/down/zzyc/icon.png</string>
+					<string>http://oa.haikemobile.cn:8402/down/apn/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
