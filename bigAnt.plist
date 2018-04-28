@@ -33,8 +33,8 @@
  			<key>metadata</key> 
  			<dict> 
  				<key>bundle-identifier</key> 
- 				<string>com.hnmas.hnslt</string> 
- 				<key>kind</key> 
+ 				<string>com.HangZhouAipu.bigantIM5</string> 
+ 				<key>kind</key>
  				<string>software</string> 
  				<key>subtitle</key> 
  				<string>大蚂蚁</string> 
